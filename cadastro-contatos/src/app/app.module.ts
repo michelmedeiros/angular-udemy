@@ -2,8 +2,8 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
-import { ListRoutingModule } from './cadastro-contatos/list/list-routing.module';
-import { ListModule } from './cadastro-contatos/xontatos/list.module';
+import { ListRoutingModule } from './cadastro-contatos/lista/list-routing.module';
+import { ListModule } from './cadastro-contatos/lista/list.module';
 
 @NgModule({
   declarations: [
